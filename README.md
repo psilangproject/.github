@@ -1,1 +1,1 @@
-# .github
+# PSI project
